@@ -1,0 +1,60 @@
+h1 {
+    color:navy;
+    text-shadow: 5px 5px 7px black;
+    margin: 20px;
+    
+}
+
+h2 {
+    color:navy;
+    margin: 20px;
+}
+
+
+body{
+ 
+    background-color: rgba(195, 130, 103, 0.884);
+    margin: 30px 30px 30px;
+    width: 1200px;
+
+
+ 
+  
+
+}
+
+img {
+    width: 350px;
+    height: 450px;
+    display:inline;
+    margin: 20px;
+
+}
+ 
+
+.image-container {
+    float: left; 
+    margin-right: 10px; 
+}
+
+.image-container2 {
+    float: right; 
+    margin-right: 10px; 
+}
+
+
+.clear {
+    clear: both; 
+}
+
+p, ul, .activ{
+    font-size: 20px;
+    margin: 20px;
+    
+  
+ 
+}
+
+section {
+    color:brown;
+}
